@@ -1,0 +1,14 @@
+{
+  "name": "Request Finance",
+  "slug": "RequestFinance",
+  "date": "2022-10-25",
+  "highlight": "Simplify and automate invoices, payroll, grants and more across chains with Avalanche",
+  "logo": "/img/RequestFinance.svg",
+  "tags": ["payments","stablecoin", "dao","multi-chain"],
+  "status": "live",
+  "website": "https://www.request.finance//",
+  "twitter": "https://twitter.com/RequestFinance",
+  "summary": "Request Finance simplifies and automates over $250m in crypto invoices, payroll, grants and more for web3 teams like The Sandbox, Decentraland, and Aave",
+  "cmc":"https://coinmarketcap.com/currencies/request/"
+  
+}
